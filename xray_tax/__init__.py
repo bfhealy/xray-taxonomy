@@ -1,5 +1,6 @@
 """
 This module contains an X-ray source taxonomy based on Yang et al. (2022, https://arxiv.org/abs/2206.13656).
+[Posted to Fritz with taxonomy ID 1013]
 """
 
 __version__ = '1.0.0'
