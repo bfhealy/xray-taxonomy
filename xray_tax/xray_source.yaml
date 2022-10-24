@@ -1,0 +1,10 @@
+class: X-ray source
+subclasses:
+  - class: AGN
+  - class: CV
+  - class: HM-STAR
+  - class: HMXB
+  - class: LM-STAR
+  - class: LMXB
+  - class: NS
+  - class: YSO
